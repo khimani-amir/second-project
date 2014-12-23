@@ -21,7 +21,7 @@ public class testcasesLogin  {
 	
 	@Before
 	public void startup() throws Exception{
-	new DesiredCapabilities();
+	//new DesiredCapabilities();
 	//driver=new FirefoxDriver();
 	//System.setProperty("webdriver.chrome.driver", "C:\\Users\\ameer.khimani\\Desktop\\chromedriver_win32\\chromedriver.exe");
 	//driver=new ChromeDriver();
